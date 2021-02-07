@@ -1,4 +1,5 @@
 # OQPSK_Simulink_M20b
+----------------------------------------------------------------------------
 This project was developed at the Siberian Federal University
 Institute of Engineering Physics and Radioelectronics
 Russian Federation, Krasnoyarsk Krai , Krasnoyarsk
