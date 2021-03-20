@@ -1,4 +1,5 @@
 # OQPSK_Simulink_M20b
+[![View OQPSK digital communication system on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88997-oqpsk-digital-communication-system)
 ----------------------------------------------------------------------------
 This project was developed at the Siberian Federal University
 ----------------------------------------------------------------------------
